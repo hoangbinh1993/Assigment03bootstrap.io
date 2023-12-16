@@ -127,6 +127,7 @@
 
   .grid-item--project .title-project {
     padding: 25px;
+    margin-top: 0px;
   }
 
   .icon--project {
